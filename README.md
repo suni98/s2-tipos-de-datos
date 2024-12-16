@@ -1,6 +1,6 @@
 # s2-tipos-de-datos
-// Autor: [Tu Nombre]
-// Fecha: [Fecha Actual]
+// Autor: [Torres Suni]
+// Fecha: [15/12/2024]
 // Página: 1
 
 using System;
